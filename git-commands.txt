@@ -1,6 +1,6 @@
 1. git init :-// to create a new repository. 
 
-2. git status :-// List the files you've changed and those you still need                    to add or commit.
+2. git status :-// List the files you've changed and those you still need to add or commit.
 
 3. git commit :-//  to save in repository.
 
@@ -23,7 +23,7 @@
 
 11. git commit -m "message" :-// save with a message in repository.
 
-12. git remote add origin :-// to send data from local repository to online                                 repository.
+12. git remote add origin :-// to send data from local repository to online repository.
 
 13. git remote show origin :-//tells us the place where our code is stored.
 
